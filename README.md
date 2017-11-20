@@ -1,3 +1,3 @@
-## Data Skills for Academic Librarians
+## Data Work for Academic Libraries
 
-**These are links to tools and other educational resources useful to academic librarians working with data management.**
+**These are links to tools and other  resources useful to academic librarians working with data management or doing reserach with data.**
